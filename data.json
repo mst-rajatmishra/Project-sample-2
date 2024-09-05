@@ -1,0 +1,1055 @@
+{
+    "CAQH Data": {
+        "Summary Date": "2/19/2024",
+        "metadata": "Bauer, Andrew T Medical Doctor (MD)",
+        "CAQH #": "10403678",
+        "Last Reattestation Date": " 2/5/2024 6:12:45 PM",
+        "Attestation Date": " 02/05/2024"
+    },
+    "PREPARE": {
+        "NUCC Grouping:": "Allopathic & Osteopathic Physicians",
+        "Provider Type:": "Medical Doctor (MD)",
+        "Practice Setting:": "Inpatient/Outpatient or Outpatient Only",
+        "Primary Practice State:": "CO"
+    },
+    "PERSONAL INFORMATION": {
+        "Name": {
+            "First Name :": "Andrew",
+            "Last Name :": "Bauer",
+            "Have you used other names?": "No"
+        },
+        "Home Address": {
+            "Street 1 :": "9983 E BERRY DR",
+            "City :": "GREENWOOD VLG",
+            "State :": "CO",
+            "Zip Code :": "80111-3703"
+        },
+        "Mailing Address": {
+            "Is Mailing address and Home Address Same?": "No"
+        },
+        "Primary Method of Contact": {
+            "Primary E-mail Address :": "abauer@greenwoodpediatrics.com",
+            "Personal E-Mail Address :": "atbauermd@gmail.com"
+        },
+        "Phone Numbers": {
+            "Personal Cell Phone :": "303-475-6627"
+        },
+        "Personal Identification Numbers": {
+            "Social Security Number :": "123-45-6789",
+            "Do you have a Unique Physicians Identification Number (UPIN)?": "Yes",
+            "UPIN :": "F72837",
+            "Do you have an Individual (Type 1) National Provider Identifier (NPI)?": "Yes",
+            "Individual NPI :": "1982776480"
+        },
+        "Demographics": {
+            "Gender Identity:": "Male",
+            "Race/Ethnicity :": "White",
+            "Birth Date :": "9/22/1959",
+            "Are you a US Citizen :": "Yes"
+        }
+    },
+    "PROFESSIONAL IDENTIFICATION NUMBERS": {
+        "Professional License": [
+            {
+                "License State :": "CO",
+                "Do you currently practice in this state?": "Yes",
+                "License Number :": "DR.0029232",
+                "License Type :": "MD",
+                "License Status :": "Active",
+                "Issue Date :": "01/19/1989",
+                "Expiration Date :": "04/30/2025"
+            }
+        ],
+        "DEA Registration": {
+            "Do you have a DEA Registration": "Yes",
+            "DEA Number :": "BB1809079",
+            "DEA State :": "CO",
+            "Issue Date :": "06/2022",
+            "Expiration Date :": "07/2025"
+        },
+        "Controlled Dangerous Substance (CDS) Registration": {
+            "Do you have a CDS Registration Certificate?": "No"
+        },
+        "Medicare": {
+            "Are you a participating Medicare provider?": "No"
+        },
+        "Medicaid": {
+            "Are you a participating Medicaid provider?": "Yes",
+            "Medicaid Number :": "1292325",
+            "State :": "CO"
+        },
+        "ECFMG": {
+            "Do you have a Educational Commission for Foreign Medical Graduates (ECFMG) Number?": "No"
+        }
+    },
+    "EDUCATION": {
+        "Graduate Type :": "US/Canada Graduate",
+        "Professional School Information": [
+            {
+                "Country :": "United States",
+                "State :": "MO",
+                "Professional School :": "Saint Louis University School of Medicine",
+                "Street 1 :": "1402 South Grand Boulevard",
+                "City :": "St. Louis",
+                "Zip Code :": "63104",
+                "Degree :": "Doctor of Medicine (MD)",
+                "Professional School Start Date :": "08/1982",
+                "Professional School End Date :": "06/1986",
+                "Did you complete your professional education at this school?": "Yes",
+                "Graduation Date :": "06/01/1986"
+            }
+        ],
+        "Undergraduate Education": {
+            "State :": "CO",
+            "School :": "University of Colorado, Boulder80309",
+            "Zip Code :": "80309",
+            "Degree :": "Bachelor of Arts (BA)",
+            "Start Date :": "08/1977",
+            "End Date :": "05/1981",
+            "Area of Training / Course of Study / Major :": "MCDB",
+            "Did you complete your Undergraduate education at this school?": "Yes",
+            "Graduation Date :": "05/15/1981"
+        }
+    },
+    "TRAINING INFORMATION": {
+        "Internship :": [
+            {
+                "Type :": "Internship",
+                "Country :": "United States",
+                "State :": "CO",
+                "Institution/Hospital Name :": "Children's Hospital (Denver, CO)",
+                "Street1 :": "1056 East 19th Avenue",
+                "City :": "Denver",
+                "Zip Code :": "80218",
+                "Start Date :": "06/1986",
+                "End Date :": "07/1989",
+                "Department :": "Pediatrics",
+                "Specialty :": "Pediatrics",
+                "Did you complete the training program at this institution?": "Yes"
+            }
+        ],
+        "Residency :": [
+            {
+                "Type :": "Residency",
+                "Country :": "United States",
+                "State :": "CO",
+                "Institution/Hospital Name :": "Children's Hospital (Denver, CO)",
+                "Street1 :": "1056 East 19th Avenue",
+                "City :": "Denver",
+                "Zip Code :": "80218",
+                "Start Date :": "07/1987",
+                "End Date :": "07/1989",
+                "Department :": "Pediatrics",
+                "Specialty :": "Pediatrics",
+                "Did you complete the training program at this institution?": "Yes"
+            }
+        ],
+        "Cultural Competency Training :": {
+            "Have you completed cultural competency training?": "No",
+            "Did you complete the training program at this institution?": "Yes",
+            "Completion Date :": "7/01/1989"
+        },
+        "Faculty Positions :": [
+            {
+                "Country :": "United States",
+                "State :": "CO",
+                "Institution/Hospital Name :": "University of Colorado School of Medicine",
+                "Academic Rank or Title :": "Clinical Professor",
+                "Street1 :": "13001 E. 17th Place,",
+                "City :": "Aurora",
+                "Zip Code :": "80045",
+                "Specialty :": "Pediatrics",
+                "Start Date :": "08/1989",
+                "End Date :": "04/2020"
+            }
+        ],
+        "Continuing Medical Education(CME) :": {
+            "Do you have Continuing Medical Education ?": "No"
+        }
+    },
+    "SPECIALTY INFORMATION": {
+        "Primary Specialty": {
+            "Primary Specialty :": "Pediatrics (208000000X)",
+            "Board Certified?": "Yes",
+            "Name of Certifying Board :": "American Board of Pediatrics",
+            "Certification Number :": "41975",
+            "Initial Certification Date :": "10/4/1989",
+            "Does your board certification have an expiration date?": "No"
+        },
+        "Secondary Specialty": {
+            "Do you have a Secondary Specialty?": "No"
+        },
+        "Failed Certification Exam": {
+            "Have you ever failed a certification exam?": "No"
+        }
+    },
+    "CERTIFICATION INFORMATION": {
+        "Do you have Certifications? :": "Yes",
+        "CPR - Cardio-Pulmonary Resuscitation :": "No",
+        "Basic Life Support (BLS) :": "No",
+        "Advanced Cardiac Life Support (ACLS)": "No",
+        "Advanced Life Support in OB(ALSO) :": "No",
+        "Health Care Provider (CoreC) :": "No",
+        "Advanced Trauma Life Support (ATLS) :": "No",
+        "Neonatal Advanced Life Support (NALS)": "No",
+        "Neonatal Resuscitation Program (NRP) :": "No",
+        "Pediatric Advanced Life Support (PALS)": "Yes",
+        "PALS - State :": "CO",
+        "PALS - Date of Certification :": "2/28/2023",
+        "PALS Expiration Date :": "2/28/2025",
+        "Other :": "No",
+        "Anesthesia Permit :": "No"
+    },
+    "PRACTICE LOCATIONS": {
+        "Active Locations": [
+            {
+                "General Information :": {
+                    "Confirmed Date :": "2/5/2024",
+                    "Office Type :": "Primary Practice",
+                    "Providers's Start Date :": "6/1/1992",
+                    "Do you practice at this location?:": "Yes, I practice at this location",
+                    "Please Explain:": "I see patients by appointment at least one day per week on a regular basis",
+                    "Provider Directory Classification :": "Primary Care Physician (PCP)",
+                    "Specialty :": "Pediatrics",
+                    "Subspecialty :": ", p",
+                    "Will you continue to practice at this location": "Yes",
+                    "Practice Name :": "Greenwood Pediatrics",
+                    "Street 1 :": "9094 E Mineral Cir Ste 100",
+                    "Country :": "United States",
+                    "City :": "Centennial",
+                    "State :": "CO",
+                    "Zip Code :": "80112-7201",
+                    "Can general correspondence be sent to this location?": "Yes"
+                },
+                "Mailing Address :": {
+                    "Street1 :": "9094 E Mineral Cir",
+                    "Street2 :": "Ste 100",
+                    "City :": "Englewood",
+                    "State :": "CO",
+                    "Country :": "United States",
+                    "Zip Code :": "80112",
+                    "Type of Practice :": "Group Primary Care",
+                    "Do you have an organization (Type 2) NPI? :": "Yes",
+                    "Organization (Type 2) NPI :": "1619013448"
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "303-694-3200",
+                    "Fax Number :": "303-694-2680",
+                    "Does this location provide 24hour/7day a week phone coverage?:": "No"
+                },
+                "Tax Information :": {
+                    "Tax ID :": "841201385",
+                    "Type of Tax ID :": "Group",
+                    "Is this the primary Tax ID for this practice location?": "Yes"
+                },
+                "Monday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Tuesday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Wednesday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Thursday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Friday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Saturday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "12:00 PM"
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": "Yes"
+                },
+                "Partners/Associates :": {
+                    "Colleague Type :": "Partner",
+                    "First Name :": "Suzanne",
+                    "Last Name :": "Cooper"
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": "No"
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": "No"
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "Lisa Faith",
+                    "Last Name :": "Holder Dittmer",
+                    "Phone Number :": "303-694-3200",
+                    "Fax Number :": "303-694-2680",
+                    "Is Office Manager Credentialing Contact  :": "Yes",
+                    "E-mail Address :": "credentialing@greenwoodpediatrics. com"
+                },
+                "Billing Contact :": {
+                    "First Name :": "Chris",
+                    "Last Name :": "Becker",
+                    "E-mail Address :": "cbecker@greenwoodpediatrics.com"
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Gender Limitations :": "No",
+                    "Are there any Age Limitations? :": "Yes",
+                    "Age Minimum :": "0",
+                    "Age Maximum :": "21"
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "No",
+                    "Does this office provide handicapped accessibility ?": "No"
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "No",
+                    "Interior Building": "No",
+                    "Wheelchair access to exam room": "No",
+                    "Exam table/scale/chair": "No",
+                    "Gurneys & Stretchers": "No",
+                    "Portable Lifts": "No",
+                    "Radiologic Equipment": "No",
+                    "Signage & documents": "No",
+                    "Parking": "No",
+                    "Restroom": "No",
+                    "Does this office have other services for the disabled ?": "No"
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "No",
+                    "American Sign Language :": "No",
+                    "Mental/Physical Impairment Services :": "No",
+                    "Is this office accessible by public transportation ?": "No"
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "No",
+                    "Subway :": "No",
+                    "Regional Train :": "No",
+                    "Does this Location Provide Child Care Services?": "No",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "No",
+                    "Do you have TDD(hearing impaired device) available :": "No",
+                    "Do you accept Workers' Compensation Patients?": "No",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "No",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "No",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "No",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": "No"
+                },
+                "Telehealth :": {
+                    "I provide telehealth services at this location:": "Yes",
+                    "Do you use a telehealth application or platform that is compliant with the Health Insurance Portability and Accountability Act (HIPAA)?": "Yes"
+                },
+                "Telehealth Service Type:": {
+                    "Audio/Video :": "Yes",
+                    "Are you willing and able to support family caregivers?": "No"
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "No",
+                    "Radiology Services :": "No",
+                    "X-ray?": "No",
+                    "EKG Services?": "No",
+                    "Care of Minor Lacerations?": "No",
+                    "Pulmonary Function testing?": "No",
+                    "Allergy Injections :": "No",
+                    "Allergy Skin Testing :": "No",
+                    "Office Gynecology?": "No",
+                    "Drawing Blood?": "No",
+                    "Asthma Treatment?": "No",
+                    "Age Appropriate Immunizations?": "No",
+                    "Flexible Sigmoidoscopy?": "No",
+                    "Tympanometry/Audiometry Screening ?": "No",
+                    "Osteopathic Manipulation?": "No",
+                    "IV Hydration treatment?": "No",
+                    "Cardiac Stress Test?": "No",
+                    "Physical Therapy?": "No",
+                    "Is anesthesia administered in your office ?": "No"
+                }
+            },
+            {
+                "General Information :": {
+                    "Confirmed Date :": "2/5/2024",
+                    "Office Type :": "Other Practice",
+                    "Providers's Start Date :": "6/1/1992",
+                    "Do you practice at this location?:": "Yes, I practice at this location",
+                    "Please Explain:": "I cover or fill-in for colleagues within the same medical group on an as needed basis",
+                    "Provider Directory Classification :": "Primary Care Physician (PCP)",
+                    "Specialty :": "Pediatrics",
+                    "Will you continue to practice at this location": "Yes",
+                    "Practice Name :": "Greenwood Pediatrics",
+                    "Street 1 :": "8331 S Continental Divide Rd",
+                    "Country :": "United States",
+                    "City :": "Littleton",
+                    "State :": "CO",
+                    "Zip Code :": "80127-4231"
+                },
+                "Mailing Address :": {
+                    "Street1 :": "9094 E Mineral Avenue #100",
+                    "City :": "Centennial",
+                    "State :": "CO",
+                    "Zip Code :": "80112",
+                    "Type of Practice :": "Group Primary Care",
+                    "Do you have an organization (Type 2) NPI? :": "Yes",
+                    "Organization (Type 2) NPI :": "1619013448"
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "303-973-3200",
+                    "Fax Number :": "303-904-8510"
+                },
+                "Tax Information :": {
+                    "Tax ID :": "841201385",
+                    "Type of Tax ID :": "Group",
+                    "Is this the primary Tax ID for this practice location?": "Yes"
+                },
+                "Monday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Tuesday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Wednesday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Thursday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Friday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Saturday": {
+                    "Start Time :": "None",
+                    "End Time :": "None"
+                },
+                "Sunday": {
+                    "Start Time :": "None",
+                    "End Time :": "None"
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": "No"
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": "No"
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": "No"
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "Faith",
+                    "Last Name :": "Dittmer",
+                    "E-mail Address :": "credentialing@greenwoodpediatrics. com",
+                    "Is Office Manager Credentialing Contact  :": "Yes"
+                },
+                "Billing Contact :": {
+                    "First Name :": "Chris",
+                    "Last Name :": "Becker",
+                    "E-mail Address :": "cbecker@greenwoodpediatrics.com"
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Are there any Age Limitations? :": "Yes",
+                    "Age Minimum :": "0",
+                    "Age Maximum :": "21"
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "No",
+                    "Does this office provide handicapped accessibility ?": "No"
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "No",
+                    "Interior Building": "No",
+                    "Wheelchair access to exam room": "No",
+                    "Exam table/scale/chair": "No",
+                    "Gurneys & Stretchers": "No",
+                    "Portable Lifts": "No",
+                    "Radiologic Equipment": "No",
+                    "Signage & documents": "No",
+                    "Parking": "No",
+                    "Restroom": "No",
+                    "Does this office have other services for the disabled ?": "No"
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "No",
+                    "American Sign Language :": "No",
+                    "Mental/Physical Impairment Services :": "No",
+                    "Is this office accessible by public transportation ?": "No"
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "No",
+                    "Subway :": "No",
+                    "Regional Train :": "No",
+                    "Does this Location Provide Child Care Services?": "No",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "No",
+                    "Do you have TDD(hearing impaired device) available :": "No",
+                    "Do you accept Workers' Compensation Patients?": "No",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "No",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "No",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "No",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": "No"
+                },
+                "Telehealth Service Type:": {
+                    "Audio :": "No",
+                    "Audio/Video :": "No",
+                    "Secure Text Messaging :": "No",
+                    "Remote Monitoring :": "No",
+                    "Store-and-Forward :": "No",
+                    "Are you willing and able to support family caregivers?": "No"
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "No",
+                    "Radiology Services :": "No",
+                    "X-ray?": "No",
+                    "EKG Services?": "No",
+                    "Care of Minor Lacerations?": "No",
+                    "Pulmonary Function testing?": "No",
+                    "Allergy Injections :": "No",
+                    "Allergy Skin Testing :": "No",
+                    "Office Gynecology?": "No",
+                    "Drawing Blood?": "No",
+                    "Asthma Treatment?": "No",
+                    "Age Appropriate Immunizations?": "No",
+                    "Flexible Sigmoidoscopy?": "No",
+                    "Tympanometry/Audiometry Screening ?": "No",
+                    "Osteopathic Manipulation?": "No",
+                    "IV Hydration treatment?": "No",
+                    "Cardiac Stress Test?": "No",
+                    "Physical Therapy?": "No",
+                    "Is anesthesia administered in your office ?": "No"
+                }
+            },
+            {
+                "General Information :": {
+                    "Confirmed Date :": "2/5/2024",
+                    "Office Type :": "Other Practice",
+                    "Providers's Start Date :": "6/1/1992",
+                    "Do you practice at this location?:": "Yes, I practice at this location",
+                    "Please Explain:": "I cover or fill-in for colleagues within the same medical group on an as needed basis",
+                    "Provider Directory Classification :": "Primary Care Physician (PCP)",
+                    "Specialty :": "Pediatrics",
+                    "Will you continue to practice at this location": "Yes",
+                    "Practice Name :": "Greenwood Pediatrics",
+                    "Street 1 :": "16830 Northgate Dr Unit 150",
+                    "Country :": "United States",
+                    "City :": "Parker",
+                    "State :": "CO",
+                    "Zip Code :": "80134-5778"
+                },
+                "Mailing Address :": {
+                    "Type of Practice :": "Group Primary Care",
+                    "Do you have an organization (Type 2) NPI? :": "Yes",
+                    "Organization (Type 2) NPI :": "1619013448"
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "303-805-7879",
+                    "Fax Number :": "303-805-8076"
+                },
+                "Tax Information :": {
+                    "Tax ID :": "841201385",
+                    "Type of Tax ID :": "Group",
+                    "Is this the primary Tax ID for this practice location?": "Yes"
+                },
+                "Monday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Tuesday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Wednesday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Thursday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Friday": {
+                    "Start Time :": "8:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Saturday": {
+                    "Start Time :": "None",
+                    "End Time :": "None"
+                },
+                "Sunday": {
+                    "Start Time :": "None",
+                    "End Time :": "None"
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": "No"
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": "No"
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": "No"
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "Faith",
+                    "Last Name :": "Dittmer",
+                    "E-mail Address :": "credentialing@greenwoodpediatrics. com",
+                    "Is Office Manager Credentialing Contact  :": "Yes"
+                },
+                "Billing Contact :": {
+                    "First Name :": "Chris",
+                    "Last Name :": "Becker",
+                    "E-mail Address :": "cbecker@greenwoodpediatrics.com"
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Are there any Age Limitations? :": "Yes",
+                    "Age Minimum :": "0",
+                    "Age Maximum :": "21"
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "No",
+                    "Does this office provide handicapped accessibility ?": "No"
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "No",
+                    "Interior Building": "No",
+                    "Wheelchair access to exam room": "No",
+                    "Exam table/scale/chair": "No",
+                    "Gurneys & Stretchers": "No",
+                    "Portable Lifts": "No",
+                    "Radiologic Equipment": "No",
+                    "Signage & documents": "No",
+                    "Parking": "No",
+                    "Restroom": "No",
+                    "Does this office have other services for the disabled ?": "No"
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "No",
+                    "American Sign Language :": "No",
+                    "Mental/Physical Impairment Services :": "No",
+                    "Is this office accessible by public transportation ?": "No"
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "No",
+                    "Subway :": "No",
+                    "Regional Train :": "No",
+                    "Does this Location Provide Child Care Services?": "No",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "No",
+                    "Do you have TDD(hearing impaired device) available :": "No",
+                    "Do you accept Workers' Compensation Patients?": "No",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "No",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "No",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "No",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": "No"
+                },
+                "Telehealth Service Type:": {
+                    "Audio :": "No",
+                    "Audio/Video :": "No",
+                    "Secure Text Messaging :": "No",
+                    "Remote Monitoring :": "No",
+                    "Store-and-Forward :": "No",
+                    "Are you willing and able to support family caregivers?": "No"
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "No",
+                    "Radiology Services :": "No",
+                    "X-ray?": "No",
+                    "EKG Services?": "No",
+                    "Care of Minor Lacerations?": "No",
+                    "Pulmonary Function testing?": "No",
+                    "Allergy Injections :": "No",
+                    "Allergy Skin Testing :": "No",
+                    "Office Gynecology?": "No",
+                    "Drawing Blood?": "No",
+                    "Asthma Treatment?": "No",
+                    "Age Appropriate Immunizations?": "No",
+                    "Flexible Sigmoidoscopy?": "No",
+                    "Tympanometry/Audiometry Screening ?": "No",
+                    "Osteopathic Manipulation?": "No",
+                    "IV Hydration treatment?": "No",
+                    "Cardiac Stress Test?": "No",
+                    "Physical Therapy?": "No",
+                    "Is anesthesia administered in your office ?": "No"
+                }
+            },
+            {
+                "General Information :": {
+                    "Confirmed Date :": "2/5/2024",
+                    "Office Type :": "Other Practice",
+                    "Providers's Start Date :": "1/1/2019",
+                    "Do you practice at this location?:": "Yes, I practice at this location",
+                    "Please Explain:": "I cover or fill-in for colleagues within the same medical group on an as needed basis",
+                    "Specialty :": "Pediatrics",
+                    "Will you continue to practice at this location": "Yes",
+                    "Practice Name :": "PediaClinic",
+                    "Street 1 :": "9555 S University Blvd Unit 102",
+                    "Country :": "United States",
+                    "City :": "Highlands Ranch",
+                    "State :": "CO",
+                    "Zip Code :": "80126-8114",
+                    "Practice Location Website": "https://www.pediaclinic.net"
+                },
+                "Mailing Address :": {
+                    "Do you have an organization (Type 2) NPI? :": "Yes",
+                    "Organization (Type 2) NPI :": "1851866180"
+                },
+                "Phone Numbers :": {
+                    "Appointment Phone Number :": "303-302-3879",
+                    "Fax Number :": "720-325-2327"
+                },
+                "Tax Information :": {
+                    "Practice Name as it appears on the W-9 :": "PediaClinic",
+                    "Tax ID :": "822318806",
+                    "Type of Tax ID :": "Group",
+                    "Is this the primary Tax ID for this practice location?": "Yes"
+                },
+                "Monday": {
+                    "Start Time :": "5:30 PM",
+                    "End Time :": "9:00 PM"
+                },
+                "Tuesday": {
+                    "Start Time :": "5:30 PM",
+                    "End Time :": "9:00 PM"
+                },
+                "Wednesday": {
+                    "Start Time :": "5:30 PM",
+                    "End Time :": "9:00 PM"
+                },
+                "Thursday": {
+                    "Start Time :": "5:30 PM",
+                    "End Time :": "9:00 PM"
+                },
+                "Friday": {
+                    "Start Time :": "5:30 PM",
+                    "End Time :": "9:00 PM"
+                },
+                "Saturday": {
+                    "Start Time :": "11:00 AM",
+                    "End Time :": "4:00 PM"
+                },
+                "Sunday": {
+                    "Start Time :": "10:00 AM",
+                    "End Time :": "5:00 PM"
+                },
+                "Colleagues :": {
+                    "Do you have any Partners/Associate at this location ?": "Yes"
+                },
+                "Partners/Associates :": {
+                    "Colleague Type :": "Associate",
+                    "First Name :": "Suzanne",
+                    "Last Name :": "Cooper"
+                },
+                "Covering Colleagues :": {
+                    "Call Coverage Not Applicable :": "No"
+                },
+                "Mid-Level Practitioners :": {
+                    "Do you have any mid-level practitioners at this location?": "No"
+                },
+                "Office Manager or Business Staff Contact :": {
+                    "First Name :": "Daniel",
+                    "Last Name :": "Feiten",
+                    "E-mail Address :": "dfeiten@pediaclinic.net",
+                    "Is Office Manager Credentialing Contact  :": "Yes"
+                },
+                "Billing Contact :": {
+                    "Office Manager & Billing Contact are same ?": "Yes"
+                },
+                "Practice Limitations and Patient Populations :": {
+                    "Are there any Age Limitations? :": "Yes",
+                    "Age Minimum :": "0",
+                    "Age Maximum :": "18"
+                },
+                "Accessibility :": {
+                    "Does this office meet ADA accessibility requirements ?": "No",
+                    "Does this office provide handicapped accessibility ?": "No"
+                },
+                "Please specify how this location meets handicapped accessibility requirements:": {
+                    "Exterior Building": "No",
+                    "Interior Building": "No",
+                    "Wheelchair access to exam room": "No",
+                    "Exam table/scale/chair": "No",
+                    "Gurneys & Stretchers": "No",
+                    "Portable Lifts": "No",
+                    "Radiologic Equipment": "No",
+                    "Signage & documents": "No",
+                    "Parking": "No",
+                    "Restroom": "No",
+                    "Does this office have other services for the disabled ?": "No"
+                },
+                "Please specify other services for the disabled:": {
+                    "Text Telephony (TTL) :": "No",
+                    "American Sign Language :": "No",
+                    "Mental/Physical Impairment Services :": "No",
+                    "Is this office accessible by public transportation ?": "No"
+                },
+                "Please specify how this office is accessible by public transportation:": {
+                    "Bus Transportation:": "No",
+                    "Subway :": "No",
+                    "Regional Train :": "No",
+                    "Does this Location Provide Child Care Services?": "No",
+                    "Does this office meet all state and local fire, safety and sanitation requirements?": "No",
+                    "Do you have TDD(hearing impaired device) available :": "No",
+                    "Do you accept Workers' Compensation Patients?": "No",
+                    "Are staff trained in identification and care of patients with work-related illness/injury and provide care/services with an active return to work philosophy?": "No",
+                    "Modified or alternative duty is actively evaluated for each Workers' Compensation claimant?": "No",
+                    "Office will accommodate urgent walk-ins (or non-urgent appointments within 48 hours) to treat injured or ill workers and facilitate their return to work, if possible": "No",
+                    "Staff are available and willing to provide compensation representatives information regarding a claimant's care.": "No"
+                },
+                "Telehealth Service Type:": {
+                    "Audio :": "No",
+                    "Audio/Video :": "No",
+                    "Secure Text Messaging :": "No",
+                    "Remote Monitoring :": "No",
+                    "Store-and-Forward :": "No",
+                    "Are you willing and able to support family caregivers?": "No"
+                },
+                "Does this location provide any of the following services:": {
+                    "Laboratory Services? :": "No",
+                    "Radiology Services :": "No",
+                    "X-ray?": "No",
+                    "EKG Services?": "No",
+                    "Care of Minor Lacerations?": "No",
+                    "Pulmonary Function testing?": "No",
+                    "Allergy Injections :": "No",
+                    "Allergy Skin Testing :": "No",
+                    "Office Gynecology?": "No",
+                    "Drawing Blood?": "No",
+                    "Asthma Treatment?": "No",
+                    "Age Appropriate Immunizations?": "No",
+                    "Flexible Sigmoidoscopy?": "No",
+                    "Tympanometry/Audiometry Screening ?": "No",
+                    "Osteopathic Manipulation?": "No",
+                    "IV Hydration treatment?": "No",
+                    "Cardiac Stress Test?": "No",
+                    "Physical Therapy?": "No",
+                    "Is anesthesia administered in your office ?": "No"
+                }
+            }
+        ],
+        "Archived Locations": []
+    },
+    "HOSPITAL AFFILIATIONS": {
+        "General :": {
+            "Do you have admitting privileges at one or more hospitals?": "Yes",
+            "Do you have an admitting arrangement where another provider admits for you?": "No",
+            "Do you have any non-admitting hospital affiliations?": "Yes"
+        },
+        "Admitting Privileges :": [
+            {
+                "Country :": "United States",
+                "State :": "CO",
+                "Hospital Name :": "Sky Ridge Medical Center",
+                "Street 1 :": "10101 Ridge Gate Parkway",
+                "City :": "Lone Tree",
+                "Zip Code :": "80124-5522",
+                "Is this your primary hospital? :": "Yes",
+                "Admitting Privilege Status :": "Active",
+                "Start Date :": "06/2003",
+                "Admitting Privilege Type :": "Full And Unrestricted",
+                "Department :": "Pediatrics"
+            },
+            {
+                "Country :": "United States",
+                "State :": "CO",
+                "Hospital Name :": "Littleton Adventist Hospital",
+                "Street 1 :": "7700 South Broadway Street",
+                "City :": "Littleton",
+                "Zip Code :": "80122-2628",
+                "Is this your primary hospital? :": "No",
+                "Admitting Privilege Status :": "Active",
+                "Start Date :": "09/1989",
+                "Admitting Privilege Type :": "Full And Unrestricted",
+                "Department :": "Pediatrics"
+            },
+            {
+                "Country :": "United States",
+                "State :": "CO",
+                "Hospital Name :": "Parker Adventist Hospital",
+                "Street 1 :": "9395 Crown Crest Boulevard",
+                "City :": "Parker",
+                "Zip Code :": "80138-8573",
+                "Is this your primary hospital? :": "No",
+                "Admitting Privilege Status :": "Active",
+                "Start Date :": "02/2004",
+                "Admitting Privilege Type :": "Full And Unrestricted",
+                "Department :": "Pediatrics"
+            },
+            {
+                "Country :": "United States",
+                "State :": "CO",
+                "Hospital Name :": "UCHealth Highlands Ranch Hospital",
+                "Street 1 :": "1500 Park Central Drive",
+                "City :": "Highlands Ranch",
+                "Zip Code :": "80129-6688",
+                "Is this your primary hospital? :": "No",
+                "Admitting Privilege Status :": "Active",
+                "Start Date :": "11/2019",
+                "Admitting Privilege Type :": "Full And Unrestricted",
+                "Department :": "Pediatrics"
+            }
+        ],
+        "Non-Admitting Affiliations :": {
+            "State :": "CO",
+            "Hospital Name :": "Other",
+            "Other Hospital Name :": "Children's Hospital (Denver, CO)",
+            "Street 1 :": "1056 East 19th Avenue",
+            "City :": "Denver",
+            "Zip Code :": "80218",
+            "Phone Number :": "303-861-8888",
+            "Non-Admitting Affiliation Status :": "Active",
+            "Please describe the non-admitting affiliation:": "Non Admitting Courtesy"
+        }
+    },
+    "CREDENTIALING INFORMATION": [
+        {
+            "First Name :": "Chris",
+            "Last Name :": "Becker",
+            "Street 1 :": "9094 E Mineral Ave #100",
+            "City :": "Centennial",
+            "State :": "CO",
+            "Zip Code :": "80112-7201",
+            "Phone Number :": "303-694-3200",
+            "Fax Number :": "303-694-2680",
+            "Email Address :": "cbecker@greenwoodpediatrics.com",
+            "Primary Credentialing Contact :": "No",
+            "Location Type :": "PracticeLocation"
+        },
+        {
+            "First Name :": "Faith",
+            "Last Name :": "Dittmer",
+            "Phone Number :": "303-694-3200",
+            "Fax Number :": "303-694-2680",
+            "Email Address :": "credentialing@greenwoodpediatrics. com",
+            "Primary Credentialing Contact :": "Yes",
+            "Location Type :": "PracticeLocation"
+        }
+    ],
+    "INSURANCE INFORMATION": [],
+    "WORK HISTORY INFORMATION": {
+        "Employment Information Record": [
+            {
+                "Practice/Employer Name :": "Greenwood Pediatrics",
+                "Street 1 :": "9094 E Mineral Ave",
+                "Street 2 :": "#100",
+                "Country :": "United States",
+                "City :": "Centennial",
+                "State :": "CO",
+                "Zip Code :": "80112",
+                "Phone Number :": "303-694-3200",
+                "Fax Number :": "303-694-2680",
+                "Title/Position :": "Physician",
+                "Start Date :": "06/1992"
+            },
+            {
+                "Practice/Employer Name :": "Cherry Creek Pediatrics",
+                "Street 1 :": "900 S Cherry St",
+                "Country :": "United States",
+                "City :": "Denver",
+                "State :": "CO",
+                "Zip Code :": "80220",
+                "Start Date :": "08/1989",
+                "Is this your current employer?": "No",
+                "End Date :": "05/1992",
+                "Reason for departure :": "Left practice"
+            }
+        ],
+        "Military :": {
+            "Are you currently on active military duty?": "No",
+            "Do you accept all new patients at this location?": "No"
+        }
+    },
+    "REFERENCES INFORMATION": [
+        {
+            "Provider Type :": "Medical Doctor (MD)",
+            "Specialty :": "Pediatrics",
+            "First Name :": "Kelly",
+            "Last Name :": "Newgent",
+            "Street 1 :": "8331 S Continental Divide Road",
+            "City:": "Littleton",
+            "State :": "CO",
+            "Zip Code :": "80127",
+            "Country :": "United States",
+            "Email Address :": "knewgent@greenwoodpediatrics.com",
+            "Phone Number :": "303-973-3200",
+            "Fax Number :": "303-904-8510",
+            "Relationship :": "Partner",
+            "Association Start Date :": "2/1/2014"
+        },
+        {
+            "Provider Type :": "Medical Doctor (MD)",
+            "Specialty :": "Pediatrics",
+            "First Name :": "Suzanne",
+            "Last Name :": "Cooper",
+            "Street 1 :": "9094 E Mineral Ave #100",
+            "City:": "Centennial",
+            "State :": "CO",
+            "Zip Code :": "80112",
+            "Country :": "United States",
+            "Email Address :": "scooper@greenwoodpediatric.com",
+            "Phone Number :": "303-694-3200",
+            "Fax Number :": "303-694-2680",
+            "Relationship :": "partner",
+            "Association Start Date :": "7/1/1998"
+        }
+    ],
+    "DISCLOSURE INFORMATION": {
+        "Board Certification :": {
+            "1. Have you ever had Board certification denied, revoked, limited, restricted, suspended, involuntarily relinquished, subject t stipulated or probationary conditions, received a letter of reprimand from a specialty Board, or is any such action currently pending or under review?": "No",
+            "2. Have you ever voluntarily relinquished a certification, including any voluntary non-renewal of a time limited certification?": "No"
+        },
+        "Professional Insurance History :": {
+            "1. Has your professional liability insurance coverage ever been terminated, not renewed, cancelled, limited, restricted, modified, or altered by action of the insurance company?": "No",
+            "2. Have you ever been denied coverage?": "No",
+            "3. Has your present professional liability insurance carrier excluded any specific procedures from your insurance coverage?": "No"
+        },
+        "Professional Claims History :": {
+            "1. Have there ever been any professional liability (i.e., malpractice) claims, suits, judgments, settlements or arbitration proceeding involving you?": "Yes",
+            "Date :": "6/1/1994",
+            "Date of Occurrence :": "6/1/1994",
+            "Date Claim Filed :": "6/1/1994",
+            "Claim Status :": "Closed",
+            "Insurance Carrier Name :": "COPIC Insurance",
+            "State :": "ZIP Code :",
+            "Settlement Amount :": "$0.00",
+            "Resolution Method :": "Dismissed",
+            "Description of Allegations :": "Wanted payment for a normal MRI I ordered",
+            "Were you the primary defendant :": "Yes",
+            "Number of Co-defendants :": "0",
+            "Your involvement in the case :": "defendant",
+            "Description of alleged injury to patient :": "none",
+            "Did the alleged injury result in death:": "No",
+            "Data Bank (NPDB) :": "No",
+            "2. Are any professional liability (i.e., malpractice) claims, suits, judgments, settlements or arbitration proceedings involving you currently pending?": "No",
+            "3. Are you aware of any formal demand for payment or similar claim submitted to your insurer that did not result in a lawsuit or other proceeding alleging professional liability?": "No"
+        },
+        "Other Attestation Questions :": {
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 1. a hospital or other healthcare facility (e.g., surgical center, nursing home, renal dialysis facility, etc.)?": "No",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 2. an education facility or program (e.g., dental or other health care professional school, residency, internship, etc.)?": "No",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 3. a professional organization or society?": "No",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 4. a professional licensing body (in any jurisdiction for any profession)?": "No",
+            "A. To your knowledge, have you ever been the subject of an adverse action (or is an investigation or adverse action currently pending by)? 5. a private, federal, or state agency regarding your participation in a third party payment program (Medicare, Medicaid, Health Maintenance Organization (HMO), Preferred Provider Organization (PPO), Preferred Hospital Organization (PHO), Provider- Sponsored Health Care Corporations (PSHCC), network, system, managed care organization, etc.)?": "No",
+            "6. a state or federal agency (DEA, etc.) regarding your prescription of controlled substances?": "No",
+            "B. To your knowledge, have you ever been the subject of any report(s) to a state or federal data bank or state licensing or disciplining entity?": "No",
+            "1. Have you ever involuntarily resigned, terminated or surrendered medical staff privileges or employment from a hospital, group practice or other health care facility or medical staff?": "No",
+            "2. Have you ever voluntarily resigned, terminated, or surrendered medical staff privileges or employment from a hospital, group practice or other healthcare facility or medical staff to avoid disciplinary action or investigation, or while under investigation, or while such an investigation is/was pending?": "No",
+            "D. Have you ever been suspended, fined, disciplined, investigated, expelled, sanctioned or otherwise restricted or excluded from participating in any private, federal or state health insurance program (for example, Medicare or Medicaid) or are any such proceedings in progress?": "No",
+            "E. Has any professional review organization under contract with Medicare or Medicaid ever made an adverse quality determination concerning your treatment rendered to any patient or are any such proceedings in progress?": "No",
+            "F. Have you ever been convicted of, pled guilty to, or pled nolo contendere to any felony or misdemeanor that is reasonably related to your qualifications, competence, functions, or duties as a health care professional or are you currently under indictment or currently have pending against you any such charges?": "No",
+            "G. Have you ever been convicted of, pled guilty to, or pled nolo contendere to any felony or misdemeanor that alleged fraud, an act of violence, child abuse, or a sexual offense or sexual misconduct or are you currently under indictment or currently hav pending against you any such charges?": "No",
+            "H. In the last ten years, have you been found liable or responsible for or named in any civil offense that is reasonably related t your qualifications, competence, functions, or duties as a health care professional or that alleged fraud, an act of violence, child abuse, or a sexual offense or sexual misconduct?": "No",
+            "I. Have you ever been court-martialed for actions related to your duties as a health care professional?": "No"
+        },
+        "Ability to Perform Job :": {
+            "1. Are you currently engaged in the illegal use of drugs? (Currently means sufficiently recent to justify a reasonable belief that the use of drugs may have an ongoing impact on one's ability to practice your profession. It is not limited to the day of, or within a matter of days or weeks before the date of application, rather that it has occurred recently enough to indicate the individual is actively engaged in such conduct. Illegal use of drugs refers to drugs whose possession or distribution is unlawful under the Controlled Substances Act, 21 U.S.C. 812.22. It does not include the use of a drug taken under supervision by a licensed health care professional, or other uses authorized by the Controlled Substances Act or other provision of Federal law. The term does include, however, the unlawful use of prescription controlled substances and alcohol).": "No",
+            "2. Do you use any chemical substances that would in any way impair or limit your ability to practice medicine and perform th functions of your job with reasonable skill and safety?": "No",
+            "3. Do you have any reason to believe that you would pose a risk to the safety or well being of your patients?": "No"
+        },
+        "Health Status :": {
+            "1. Do you currently have any physical or mental condition(s) that may affect your ability to practice or exercise the clinical privileges or responsibilities typically associated with the specialty and position for which you are submitting this Application?": "No",
+            "2. Are you currently in a treatment program(s) that may affect your ability to practice or exercise the clinical privileges or responsibilities typically associated with the specialty and position for which you are submitting this application?": "No",
+            "3. Are you able to perform all the essential functions of the position for which you are applying, safely and according to accepted standards of performance, with or without reasonable accommodation?": "Yes",
+            "4. I have had a TB test within the last 12 months and the test was negative. negative. I have not experienced new risk factors for TB nor am I experiencing symptoms of active TB since my last TB test.": "Yes",
+            "4(A). I have had a history of previous infection with Mycobacterium Tuberculosis or a positive TB test but I since have had a chest x-ray which was read as normal. I currently have no symptoms of active disease and have not experienced new risk factors for TB in the past year.": "No",
+            "4(B). I currently have active TB disease which is being adequately treated.": "No",
+            "4(C). I have not had a TB test within the past 12 months, but have scheduled an appointment for the test and will forward the results within 30 days from that date.": "Yes",
+            "5. The Colorado Board of Health requires licensed health care facilities to annually report their health care worker influenza vaccination rate and achieve a vaccination rate of at least 90% . To facilitate compliance with this rule, some health care faciliti may require annual influenza vaccination of employees and staff. If this facility must comply with the Colorado Board of Health requirements, do you agree to provide proof of influenza vaccination or a medical exemption before practicing at this facility?": "I agree "
+        }
+    }
+}
